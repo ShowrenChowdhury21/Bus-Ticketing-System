@@ -1,0 +1,12 @@
+D:\C#\Project\Ticketing\bin\Debug\Ticketing.exe.config
+D:\C#\Project\Ticketing\bin\Debug\Ticketing.exe
+D:\C#\Project\Ticketing\bin\Debug\Ticketing.pdb
+D:\C#\Project\Ticketing\obj\Debug\Ticketing.csprojResolveAssemblyReference.cache
+D:\C#\Project\Ticketing\obj\Debug\Ticketing.Properties.Resources.resources
+D:\C#\Project\Ticketing\obj\Debug\Ticketing.csproj.GenerateResource.cache
+D:\C#\Project\Ticketing\obj\Debug\Ticketing.csproj.CoreCompileInputs.cache
+D:\C#\Project\Ticketing\obj\Debug\Ticketing.exe
+D:\C#\Project\Ticketing\obj\Debug\Ticketing.pdb
+D:\C#\Project\Ticketing\obj\Debug\Ticketing.LoginForm.resources
+D:\C#\Project\Ticketing\obj\Debug\Ticketing.MainMenuForm1.resources
+D:\C#\Project\Ticketing\obj\Debug\Ticketing.MainMenuForm2.resources

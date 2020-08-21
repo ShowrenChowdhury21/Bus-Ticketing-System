@@ -1,0 +1,210 @@
+D:\C#\Project\Ticketing\obj\Debug\App.csprojResolveAssemblyReference.cache
+D:\C#\Project\Ticketing\obj\Debug\Ticketing.Properties.Resources.resources
+D:\C#\Project\Ticketing\obj\Debug\App.csproj.GenerateResource.cache
+D:\C#\Project\Ticketing\obj\Debug\App.csproj.CoreCompileInputs.cache
+D:\C#\Project\Ticketing\obj\Debug\Ticketing.exe
+D:\C#\Project\Ticketing\obj\Debug\Ticketing.pdb
+D:\C#\Project\Ticketing\bin\Debug\Ticketing.exe.config
+D:\C#\Project\Ticketing\bin\Debug\Ticketing.exe
+D:\C#\Project\Ticketing\bin\Debug\Ticketing.pdb
+D:\C#\Project\Ticketing\obj\Debug\Ticketing.LoginForm.resources
+D:\C#\Project\Ticketing\obj\Debug\Ticketing.MainMenuForm1.resources
+D:\C#\Project\Ticketing\obj\Debug\Ticketing.BusTicketPick.resources
+D:\C#\Project\Ticketing\obj\Debug\Ticketing.BusTicketPick2.resources
+D:\C#\Project\Ticketing\obj\Debug\Ticketing.BusTicketPick1.resources
+L:\Project\Ticketing\bin\Debug\Ticketing.exe.config
+L:\Project\Ticketing\obj\Debug\Ticketing.exe
+L:\Project\Ticketing\obj\Debug\Ticketing.pdb
+L:\Project\Ticketing\bin\Debug\Ticketing.exe
+L:\Project\Ticketing\bin\Debug\Ticketing.pdb
+L:\Project\Ticketing\bin\Debug\mscorlib.dll
+L:\Project\Ticketing\bin\Debug\System.Net.Http.dll
+L:\Project\Ticketing\bin\Debug\System.Net.Http.xml
+L:\Project\Ticketing\bin\Debug\de\mscorlib.resources.dll
+L:\Project\Ticketing\bin\Debug\normidna.nlp
+L:\Project\Ticketing\bin\Debug\normnfc.nlp
+L:\Project\Ticketing\bin\Debug\normnfd.nlp
+L:\Project\Ticketing\bin\Debug\normnfkc.nlp
+L:\Project\Ticketing\bin\Debug\normnfkd.nlp
+L:\Project\Ticketing\obj\Debug\App.csprojResolveAssemblyReference.cache
+L:\Project\Ticketing\obj\Debug\Ticketing.BusTicketPick.resources
+L:\Project\Ticketing\obj\Debug\Ticketing.BusTicketPick1.resources
+L:\Project\Ticketing\obj\Debug\Ticketing.LoginForm.resources
+L:\Project\Ticketing\obj\Debug\Ticketing.MainMenuForm1.resources
+L:\Project\Ticketing\obj\Debug\Ticketing.BusTicketPick2.resources
+L:\Project\Ticketing\obj\Debug\Ticketing.Properties.Resources.resources
+L:\Project\Ticketing\obj\Debug\App.csproj.GenerateResource.Cache
+C:\Users\si\Desktop\c#\Project\Ticketing\bin\Debug\Ticketing.exe.config
+C:\Users\si\Desktop\c#\Project\Ticketing\obj\Debug\Ticketing.exe
+C:\Users\si\Desktop\c#\Project\Ticketing\obj\Debug\Ticketing.pdb
+C:\Users\si\Desktop\c#\Project\App\bin\Debug\Ticketing.exe.config
+C:\Users\si\Desktop\c#\Project\App\obj\Debug\Ticketing.exe
+C:\Users\si\Desktop\c#\Project\App\obj\Debug\Ticketing.pdb
+C:\Users\si\Desktop\c#\Project\App\bin\Debug\Ticketing.exe
+C:\Users\si\Desktop\c#\Project\App\bin\Debug\Ticketing.pdb
+C:\Users\si\Desktop\c#\Project\App\bin\Debug\mscorlib.dll
+C:\Users\si\Desktop\c#\Project\App\bin\Debug\System.Net.Http.dll
+C:\Users\si\Desktop\c#\Project\App\bin\Debug\System.Net.Http.xml
+C:\Users\si\Desktop\c#\Project\App\bin\Debug\de\mscorlib.resources.dll
+C:\Users\si\Desktop\c#\Project\App\bin\Debug\normidna.nlp
+C:\Users\si\Desktop\c#\Project\App\bin\Debug\normnfc.nlp
+C:\Users\si\Desktop\c#\Project\App\bin\Debug\normnfd.nlp
+C:\Users\si\Desktop\c#\Project\App\bin\Debug\normnfkc.nlp
+C:\Users\si\Desktop\c#\Project\App\bin\Debug\normnfkd.nlp
+C:\Users\si\Desktop\c#\Project\App\obj\Debug\App.BusTicketPick.resources
+C:\Users\si\Desktop\c#\Project\App\obj\Debug\App.LoginForm.resources
+C:\Users\si\Desktop\c#\Project\App\obj\Debug\App.MainMenuForm1.resources
+C:\Users\si\Desktop\c#\Project\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\si\Desktop\c#\Project\App\obj\Debug\App.csproj.GenerateResource.Cache
+C:\Users\si\Desktop\c#\Project\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\si\Desktop\c#\Project\App\bin\Debug\Enity.dll
+C:\Users\si\Desktop\c#\Project\App\bin\Debug\Interfaces.dll
+C:\Users\si\Desktop\c#\Project\App\bin\Debug\Repository.dll
+C:\Users\si\Desktop\c#\Project\App\bin\Debug\Enity.pdb
+C:\Users\si\Desktop\c#\Project\App\bin\Debug\Interfaces.pdb
+C:\Users\si\Desktop\c#\Project\App\bin\Debug\Repository.pdb
+D:\C#\Project Complete\Project\App\bin\Debug\Ticketing.exe.config
+D:\C#\Project Complete\Project\App\bin\Debug\Ticketing.exe
+D:\C#\Project Complete\Project\App\bin\Debug\Ticketing.pdb
+D:\C#\Project Complete\Project\App\bin\Debug\Enity.dll
+D:\C#\Project Complete\Project\App\bin\Debug\Interfaces.dll
+D:\C#\Project Complete\Project\App\bin\Debug\Repository.dll
+D:\C#\Project Complete\Project\App\bin\Debug\Enity.pdb
+D:\C#\Project Complete\Project\App\bin\Debug\Interfaces.pdb
+D:\C#\Project Complete\Project\App\bin\Debug\Repository.pdb
+D:\C#\Project Complete\Project\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+D:\C#\Project Complete\Project\App\obj\Debug\App.LoginForm.resources
+D:\C#\Project Complete\Project\App\obj\Debug\App.MainMenuForm1.resources
+D:\C#\Project Complete\Project\App\obj\Debug\App.Properties.Resources.resources
+D:\C#\Project Complete\Project\App\obj\Debug\App.csproj.GenerateResource.cache
+D:\C#\Project Complete\Project\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+D:\C#\Project Complete\Project\App\obj\Debug\App.csproj.CopyComplete
+D:\C#\Project Complete\Project\App\obj\Debug\Ticketing.exe
+D:\C#\Project Complete\Project\App\obj\Debug\Ticketing.pdb
+D:\C#\Project Complete\Project\App\obj\Debug\App.EmployeeManagement.resources
+D:\C#\Project Complete\Project\App\obj\Debug\App.BusManagemenet.resources
+D:\C#\Project Complete\Project\App\obj\Debug\App.CustomerDetails.resources
+C:\Users\si\Desktop\Project\App\bin\Debug\Ticketing.exe.config
+C:\Users\si\Desktop\Project\App\obj\Debug\Ticketing.exe
+C:\Users\si\Desktop\Project\App\obj\Debug\Ticketing.pdb
+C:\Users\si\Desktop\Project\App\bin\Debug\Ticketing.exe
+C:\Users\si\Desktop\Project\App\bin\Debug\Ticketing.pdb
+C:\Users\si\Desktop\Project\App\bin\Debug\Enity.dll
+C:\Users\si\Desktop\Project\App\bin\Debug\Interfaces.dll
+C:\Users\si\Desktop\Project\App\bin\Debug\mscorlib.dll
+C:\Users\si\Desktop\Project\App\bin\Debug\Repository.dll
+C:\Users\si\Desktop\Project\App\bin\Debug\System.Net.Http.dll
+C:\Users\si\Desktop\Project\App\bin\Debug\Enity.pdb
+C:\Users\si\Desktop\Project\App\bin\Debug\Interfaces.pdb
+C:\Users\si\Desktop\Project\App\bin\Debug\Repository.pdb
+C:\Users\si\Desktop\Project\App\bin\Debug\System.Net.Http.xml
+C:\Users\si\Desktop\Project\App\bin\Debug\de\mscorlib.resources.dll
+C:\Users\si\Desktop\Project\App\bin\Debug\normidna.nlp
+C:\Users\si\Desktop\Project\App\bin\Debug\normnfc.nlp
+C:\Users\si\Desktop\Project\App\bin\Debug\normnfd.nlp
+C:\Users\si\Desktop\Project\App\bin\Debug\normnfkc.nlp
+C:\Users\si\Desktop\Project\App\bin\Debug\normnfkd.nlp
+C:\Users\si\Desktop\Project\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\si\Desktop\Project\App\obj\Debug\App.BusManagemenet.resources
+C:\Users\si\Desktop\Project\App\obj\Debug\App.CustomerDetails.resources
+C:\Users\si\Desktop\Project\App\obj\Debug\App.EmployeeManagement.resources
+C:\Users\si\Desktop\Project\App\obj\Debug\App.LoginForm.resources
+C:\Users\si\Desktop\Project\App\obj\Debug\App.MainMenuForm1.resources
+C:\Users\si\Desktop\Project\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\si\Desktop\Project\App\obj\Debug\App.csproj.GenerateResource.Cache
+C:\Users\si\Desktop\New folder\App\bin\Debug\Ticketing.exe.config
+C:\Users\si\Desktop\New folder\App\obj\Debug\Ticketing.exe
+C:\Users\si\Desktop\New folder\App\obj\Debug\Ticketing.pdb
+C:\Users\si\Desktop\New folder\App\bin\Debug\Ticketing.exe
+C:\Users\si\Desktop\New folder\App\bin\Debug\Ticketing.pdb
+C:\Users\si\Desktop\New folder\App\bin\Debug\Enity.dll
+C:\Users\si\Desktop\New folder\App\bin\Debug\Interfaces.dll
+C:\Users\si\Desktop\New folder\App\bin\Debug\itextsharp.dll
+C:\Users\si\Desktop\New folder\App\bin\Debug\mscorlib.dll
+C:\Users\si\Desktop\New folder\App\bin\Debug\Repository.dll
+C:\Users\si\Desktop\New folder\App\bin\Debug\System.Net.Http.dll
+C:\Users\si\Desktop\New folder\App\bin\Debug\Enity.pdb
+C:\Users\si\Desktop\New folder\App\bin\Debug\Interfaces.pdb
+C:\Users\si\Desktop\New folder\App\bin\Debug\Repository.pdb
+C:\Users\si\Desktop\New folder\App\bin\Debug\System.Net.Http.xml
+C:\Users\si\Desktop\New folder\App\bin\Debug\de\mscorlib.resources.dll
+C:\Users\si\Desktop\New folder\App\bin\Debug\normidna.nlp
+C:\Users\si\Desktop\New folder\App\bin\Debug\normnfc.nlp
+C:\Users\si\Desktop\New folder\App\bin\Debug\normnfd.nlp
+C:\Users\si\Desktop\New folder\App\bin\Debug\normnfkc.nlp
+C:\Users\si\Desktop\New folder\App\bin\Debug\normnfkd.nlp
+C:\Users\si\Desktop\New folder\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\si\Desktop\New folder\App\obj\Debug\App.BusManagemenet.resources
+C:\Users\si\Desktop\New folder\App\obj\Debug\App.CustomerDetails.resources
+C:\Users\si\Desktop\New folder\App\obj\Debug\App.EmployeeManagement.resources
+C:\Users\si\Desktop\New folder\App\obj\Debug\App.LoginForm.resources
+C:\Users\si\Desktop\New folder\App\obj\Debug\App.MainMenuForm1.resources
+C:\Users\si\Desktop\New folder\App\obj\Debug\App.PrintTicket.resources
+C:\Users\si\Desktop\New folder\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\si\Desktop\New folder\App\obj\Debug\App.csproj.GenerateResource.Cache
+D:\C#\Project Full And Final\New folder\App\bin\Debug\Ticketing.exe.config
+D:\C#\Project Full And Final\New folder\App\bin\Debug\Ticketing.exe
+D:\C#\Project Full And Final\New folder\App\bin\Debug\Ticketing.pdb
+D:\C#\Project Full And Final\New folder\App\bin\Debug\Enity.dll
+D:\C#\Project Full And Final\New folder\App\bin\Debug\Interfaces.dll
+D:\C#\Project Full And Final\New folder\App\bin\Debug\Repository.dll
+D:\C#\Project Full And Final\New folder\App\bin\Debug\Enity.pdb
+D:\C#\Project Full And Final\New folder\App\bin\Debug\Interfaces.pdb
+D:\C#\Project Full And Final\New folder\App\bin\Debug\Repository.pdb
+D:\C#\Project Full And Final\New folder\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+D:\C#\Project Full And Final\New folder\App\obj\Debug\App.BusManagemenet.resources
+D:\C#\Project Full And Final\New folder\App\obj\Debug\App.CustomerDetails.resources
+D:\C#\Project Full And Final\New folder\App\obj\Debug\App.EmployeeManagement.resources
+D:\C#\Project Full And Final\New folder\App\obj\Debug\App.LoginForm.resources
+D:\C#\Project Full And Final\New folder\App\obj\Debug\App.MainMenuForm1.resources
+D:\C#\Project Full And Final\New folder\App\obj\Debug\App.PrintTicket.resources
+D:\C#\Project Full And Final\New folder\App\obj\Debug\App.Properties.Resources.resources
+D:\C#\Project Full And Final\New folder\App\obj\Debug\App.csproj.GenerateResource.cache
+D:\C#\Project Full And Final\New folder\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+D:\C#\Project Full And Final\New folder\App\obj\Debug\App.csproj.CopyComplete
+D:\C#\Project Full And Final\New folder\App\obj\Debug\Ticketing.exe
+D:\C#\Project Full And Final\New folder\App\obj\Debug\Ticketing.pdb
+D:\Study\C#\Project Full And Final\New folder\App\obj\Debug\App.csprojAssemblyReference.cache
+D:\Study\C#\Project Full And Final\New folder\App\obj\Debug\App.BusManagemenet.resources
+D:\Study\C#\Project Full And Final\New folder\App\obj\Debug\App.CustomerDetails.resources
+D:\Study\C#\Project Full And Final\New folder\App\obj\Debug\App.EmployeeManagement.resources
+D:\Study\C#\Project Full And Final\New folder\App\obj\Debug\App.LoginForm.resources
+D:\Study\C#\Project Full And Final\New folder\App\obj\Debug\App.MainMenuForm1.resources
+D:\Study\C#\Project Full And Final\New folder\App\obj\Debug\App.PrintTicket.resources
+D:\Study\C#\Project Full And Final\New folder\App\obj\Debug\App.Properties.Resources.resources
+D:\Study\C#\Project Full And Final\New folder\App\obj\Debug\App.csproj.GenerateResource.cache
+D:\Study\C#\Project Full And Final\New folder\App\obj\Debug\Ticketing.exe
+D:\Study\C#\Project Full And Final\New folder\App\obj\Debug\Ticketing.pdb
+D:\Study\C#\Project Full And Final\New folder\App\bin\Debug\Ticketing.exe.config
+D:\Study\C#\Project Full And Final\New folder\App\bin\Debug\Ticketing.exe
+D:\Study\C#\Project Full And Final\New folder\App\bin\Debug\Ticketing.pdb
+D:\Study\C#\Project Full And Final\New folder\App\bin\Debug\Enity.dll
+D:\Study\C#\Project Full And Final\New folder\App\bin\Debug\Interfaces.dll
+D:\Study\C#\Project Full And Final\New folder\App\bin\Debug\Repository.dll
+D:\Study\C#\Project Full And Final\New folder\App\bin\Debug\Enity.pdb
+D:\Study\C#\Project Full And Final\New folder\App\bin\Debug\Interfaces.pdb
+D:\Study\C#\Project Full And Final\New folder\App\bin\Debug\Repository.pdb
+D:\Study\C#\Project Full And Final\New folder\App\obj\Debug\App.csproj.CopyComplete
+D:\Study\C#\Project Full And Final\New folder\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+D:\Study\C#\Project Full And Final\Bus Ticketing System\App\bin\Debug\Ticketing.exe.config
+D:\Study\C#\Project Full And Final\Bus Ticketing System\App\bin\Debug\Ticketing.exe
+D:\Study\C#\Project Full And Final\Bus Ticketing System\App\bin\Debug\Ticketing.pdb
+D:\Study\C#\Project Full And Final\Bus Ticketing System\App\bin\Debug\Enity.dll
+D:\Study\C#\Project Full And Final\Bus Ticketing System\App\bin\Debug\Interfaces.dll
+D:\Study\C#\Project Full And Final\Bus Ticketing System\App\bin\Debug\Repository.dll
+D:\Study\C#\Project Full And Final\Bus Ticketing System\App\bin\Debug\Enity.pdb
+D:\Study\C#\Project Full And Final\Bus Ticketing System\App\bin\Debug\Interfaces.pdb
+D:\Study\C#\Project Full And Final\Bus Ticketing System\App\bin\Debug\Repository.pdb
+D:\Study\C#\Project Full And Final\Bus Ticketing System\App\obj\Debug\App.csprojAssemblyReference.cache
+D:\Study\C#\Project Full And Final\Bus Ticketing System\App\obj\Debug\App.BusManagemenet.resources
+D:\Study\C#\Project Full And Final\Bus Ticketing System\App\obj\Debug\App.CustomerDetails.resources
+D:\Study\C#\Project Full And Final\Bus Ticketing System\App\obj\Debug\App.EmployeeManagement.resources
+D:\Study\C#\Project Full And Final\Bus Ticketing System\App\obj\Debug\App.LoginForm.resources
+D:\Study\C#\Project Full And Final\Bus Ticketing System\App\obj\Debug\App.MainMenuForm1.resources
+D:\Study\C#\Project Full And Final\Bus Ticketing System\App\obj\Debug\App.PrintTicket.resources
+D:\Study\C#\Project Full And Final\Bus Ticketing System\App\obj\Debug\App.Properties.Resources.resources
+D:\Study\C#\Project Full And Final\Bus Ticketing System\App\obj\Debug\App.csproj.GenerateResource.cache
+D:\Study\C#\Project Full And Final\Bus Ticketing System\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+D:\Study\C#\Project Full And Final\Bus Ticketing System\App\obj\Debug\App.csproj.CopyComplete
+D:\Study\C#\Project Full And Final\Bus Ticketing System\App\obj\Debug\Ticketing.exe
+D:\Study\C#\Project Full And Final\Bus Ticketing System\App\obj\Debug\Ticketing.pdb

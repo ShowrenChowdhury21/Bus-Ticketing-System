@@ -1,0 +1,5 @@
+C:\Users\si\Desktop\c#\Project\Enity\bin\Debug\Enity.dll
+C:\Users\si\Desktop\c#\Project\Enity\bin\Debug\Enity.pdb
+C:\Users\si\Desktop\c#\Project\Enity\obj\Debug\Enity.csprojResolveAssemblyReference.cache
+C:\Users\si\Desktop\c#\Project\Enity\obj\Debug\Enity.dll
+C:\Users\si\Desktop\c#\Project\Enity\obj\Debug\Enity.pdb

@@ -1,0 +1,71 @@
+C:\Users\si\Desktop\c#\Project\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\si\Desktop\c#\Project\Repository\bin\Debug\Repository.dll
+C:\Users\si\Desktop\c#\Project\Repository\bin\Debug\Repository.pdb
+C:\Users\si\Desktop\c#\Project\Repository\bin\Debug\Enity.dll
+C:\Users\si\Desktop\c#\Project\Repository\bin\Debug\Interfaces.dll
+C:\Users\si\Desktop\c#\Project\Repository\bin\Debug\Enity.pdb
+C:\Users\si\Desktop\c#\Project\Repository\bin\Debug\Interfaces.pdb
+C:\Users\si\Desktop\c#\Project\Repository\obj\Debug\Repository.dll
+C:\Users\si\Desktop\c#\Project\Repository\obj\Debug\Repository.pdb
+D:\C#\Project Complete\Project\Repository\bin\Debug\Repository.dll
+D:\C#\Project Complete\Project\Repository\bin\Debug\Repository.pdb
+D:\C#\Project Complete\Project\Repository\bin\Debug\Enity.dll
+D:\C#\Project Complete\Project\Repository\bin\Debug\Interfaces.dll
+D:\C#\Project Complete\Project\Repository\bin\Debug\Enity.pdb
+D:\C#\Project Complete\Project\Repository\bin\Debug\Interfaces.pdb
+D:\C#\Project Complete\Project\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\C#\Project Complete\Project\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+D:\C#\Project Complete\Project\Repository\obj\Debug\Repository.csproj.CopyComplete
+D:\C#\Project Complete\Project\Repository\obj\Debug\Repository.dll
+D:\C#\Project Complete\Project\Repository\obj\Debug\Repository.pdb
+C:\Users\si\Desktop\Project\Repository\bin\Debug\Repository.dll
+C:\Users\si\Desktop\Project\Repository\bin\Debug\Repository.pdb
+C:\Users\si\Desktop\Project\Repository\bin\Debug\Enity.dll
+C:\Users\si\Desktop\Project\Repository\bin\Debug\Interfaces.dll
+C:\Users\si\Desktop\Project\Repository\bin\Debug\Enity.pdb
+C:\Users\si\Desktop\Project\Repository\bin\Debug\Interfaces.pdb
+C:\Users\si\Desktop\Project\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\si\Desktop\Project\Repository\obj\Debug\Repository.dll
+C:\Users\si\Desktop\Project\Repository\obj\Debug\Repository.pdb
+C:\Users\si\Desktop\New folder\Repository\bin\Debug\Repository.dll
+C:\Users\si\Desktop\New folder\Repository\bin\Debug\Repository.pdb
+C:\Users\si\Desktop\New folder\Repository\bin\Debug\Enity.dll
+C:\Users\si\Desktop\New folder\Repository\bin\Debug\Interfaces.dll
+C:\Users\si\Desktop\New folder\Repository\bin\Debug\Enity.pdb
+C:\Users\si\Desktop\New folder\Repository\bin\Debug\Interfaces.pdb
+C:\Users\si\Desktop\New folder\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\si\Desktop\New folder\Repository\obj\Debug\Repository.dll
+C:\Users\si\Desktop\New folder\Repository\obj\Debug\Repository.pdb
+D:\C#\Project Full And Final\New folder\Repository\bin\Debug\Repository.dll
+D:\C#\Project Full And Final\New folder\Repository\bin\Debug\Repository.pdb
+D:\C#\Project Full And Final\New folder\Repository\bin\Debug\Enity.dll
+D:\C#\Project Full And Final\New folder\Repository\bin\Debug\Interfaces.dll
+D:\C#\Project Full And Final\New folder\Repository\bin\Debug\Enity.pdb
+D:\C#\Project Full And Final\New folder\Repository\bin\Debug\Interfaces.pdb
+D:\C#\Project Full And Final\New folder\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\C#\Project Full And Final\New folder\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+D:\C#\Project Full And Final\New folder\Repository\obj\Debug\Repository.csproj.CopyComplete
+D:\C#\Project Full And Final\New folder\Repository\obj\Debug\Repository.dll
+D:\C#\Project Full And Final\New folder\Repository\obj\Debug\Repository.pdb
+D:\Study\C#\Project Full And Final\New folder\Repository\bin\Debug\Repository.dll
+D:\Study\C#\Project Full And Final\New folder\Repository\bin\Debug\Repository.pdb
+D:\Study\C#\Project Full And Final\New folder\Repository\bin\Debug\Enity.dll
+D:\Study\C#\Project Full And Final\New folder\Repository\bin\Debug\Interfaces.dll
+D:\Study\C#\Project Full And Final\New folder\Repository\bin\Debug\Enity.pdb
+D:\Study\C#\Project Full And Final\New folder\Repository\bin\Debug\Interfaces.pdb
+D:\Study\C#\Project Full And Final\New folder\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+D:\Study\C#\Project Full And Final\New folder\Repository\obj\Debug\Repository.csproj.CopyComplete
+D:\Study\C#\Project Full And Final\New folder\Repository\obj\Debug\Repository.dll
+D:\Study\C#\Project Full And Final\New folder\Repository\obj\Debug\Repository.pdb
+D:\Study\C#\Project Full And Final\New folder\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+D:\Study\C#\Project Full And Final\Bus Ticketing System\Repository\bin\Debug\Repository.dll
+D:\Study\C#\Project Full And Final\Bus Ticketing System\Repository\bin\Debug\Repository.pdb
+D:\Study\C#\Project Full And Final\Bus Ticketing System\Repository\bin\Debug\Enity.dll
+D:\Study\C#\Project Full And Final\Bus Ticketing System\Repository\bin\Debug\Interfaces.dll
+D:\Study\C#\Project Full And Final\Bus Ticketing System\Repository\bin\Debug\Enity.pdb
+D:\Study\C#\Project Full And Final\Bus Ticketing System\Repository\bin\Debug\Interfaces.pdb
+D:\Study\C#\Project Full And Final\Bus Ticketing System\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+D:\Study\C#\Project Full And Final\Bus Ticketing System\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+D:\Study\C#\Project Full And Final\Bus Ticketing System\Repository\obj\Debug\Repository.csproj.CopyComplete
+D:\Study\C#\Project Full And Final\Bus Ticketing System\Repository\obj\Debug\Repository.dll
+D:\Study\C#\Project Full And Final\Bus Ticketing System\Repository\obj\Debug\Repository.pdb

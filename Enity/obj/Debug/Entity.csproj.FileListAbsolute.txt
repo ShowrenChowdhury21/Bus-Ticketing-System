@@ -1,0 +1,39 @@
+C:\Users\si\Desktop\c#\Project\Enity\bin\Debug\Enity.dll
+C:\Users\si\Desktop\c#\Project\Enity\bin\Debug\Enity.pdb
+C:\Users\si\Desktop\c#\Project\Enity\obj\Debug\Enity.dll
+C:\Users\si\Desktop\c#\Project\Enity\obj\Debug\Enity.pdb
+C:\Users\si\Desktop\c#\Project\Enity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\C#\Project Complete\Project\Enity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\C#\Project Complete\Project\Enity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+D:\C#\Project Complete\Project\Enity\obj\Debug\Enity.dll
+D:\C#\Project Complete\Project\Enity\obj\Debug\Enity.pdb
+D:\C#\Project Complete\Project\Enity\bin\Debug\Enity.dll
+D:\C#\Project Complete\Project\Enity\bin\Debug\Enity.pdb
+C:\Users\si\Desktop\Project\Enity\bin\Debug\Enity.dll
+C:\Users\si\Desktop\Project\Enity\bin\Debug\Enity.pdb
+C:\Users\si\Desktop\Project\Enity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\si\Desktop\Project\Enity\obj\Debug\Enity.dll
+C:\Users\si\Desktop\Project\Enity\obj\Debug\Enity.pdb
+C:\Users\si\Desktop\New folder\Enity\bin\Debug\Enity.dll
+C:\Users\si\Desktop\New folder\Enity\bin\Debug\Enity.pdb
+C:\Users\si\Desktop\New folder\Enity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\si\Desktop\New folder\Enity\obj\Debug\Enity.dll
+C:\Users\si\Desktop\New folder\Enity\obj\Debug\Enity.pdb
+D:\C#\Project Full And Final\New folder\Enity\bin\Debug\Enity.dll
+D:\C#\Project Full And Final\New folder\Enity\bin\Debug\Enity.pdb
+D:\C#\Project Full And Final\New folder\Enity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\C#\Project Full And Final\New folder\Enity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+D:\C#\Project Full And Final\New folder\Enity\obj\Debug\Enity.dll
+D:\C#\Project Full And Final\New folder\Enity\obj\Debug\Enity.pdb
+D:\Study\C#\Project Full And Final\New folder\Enity\bin\Debug\Enity.dll
+D:\Study\C#\Project Full And Final\New folder\Enity\bin\Debug\Enity.pdb
+D:\Study\C#\Project Full And Final\New folder\Enity\obj\Debug\Entity.csprojAssemblyReference.cache
+D:\Study\C#\Project Full And Final\New folder\Enity\obj\Debug\Enity.dll
+D:\Study\C#\Project Full And Final\New folder\Enity\obj\Debug\Enity.pdb
+D:\Study\C#\Project Full And Final\New folder\Enity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+D:\Study\C#\Project Full And Final\Bus Ticketing System\Enity\bin\Debug\Enity.dll
+D:\Study\C#\Project Full And Final\Bus Ticketing System\Enity\bin\Debug\Enity.pdb
+D:\Study\C#\Project Full And Final\Bus Ticketing System\Enity\obj\Debug\Entity.csprojAssemblyReference.cache
+D:\Study\C#\Project Full And Final\Bus Ticketing System\Enity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+D:\Study\C#\Project Full And Final\Bus Ticketing System\Enity\obj\Debug\Enity.dll
+D:\Study\C#\Project Full And Final\Bus Ticketing System\Enity\obj\Debug\Enity.pdb
